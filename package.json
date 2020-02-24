@@ -42,7 +42,7 @@
     "next": "^8.0.0"
   },
   "dependencies": {
-    "fastify-plugin": "^1.2.1"
+    "fastify-plugin": "^1.6.1"
   },
   "devDependencies": {
     "@types/next": "^8.0.1",
